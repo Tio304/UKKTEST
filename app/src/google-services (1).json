@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707905255303",
+    "project_id": "ukk-1-b184b",
+    "storage_bucket": "ukk-1-b184b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707905255303:android:0f613364bd16b2b78a8522",
+        "android_client_info": {
+          "package_name": "www.smktelkommlg.sch.spp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707905255303-2j7g05gfqn84ekbfv693f87qlmv19p2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy3z-iQietB1R5P_gniVBlYuCRShD_F-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707905255303-2j7g05gfqn84ekbfv693f87qlmv19p2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
